@@ -1,0 +1,10 @@
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\bin\Debug\ComputerStore.exe.config
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\bin\Debug\ComputerStore.exe
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\bin\Debug\ComputerStore.pdb
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\obj\Debug\ComputerStore.csprojAssemblyReference.cache
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\obj\Debug\ComputerStore.Configurator.resources
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\obj\Debug\ComputerStore.Main.resources
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\obj\Debug\ComputerStore.Properties.Resources.resources
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\obj\Debug\ComputerStore.csproj.GenerateResource.cache
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\obj\Debug\ComputerStore.exe
+C:\Users\Stoyan\Source\Repos\C--homework\ComputerStore\obj\Debug\ComputerStore.pdb
