@@ -46,11 +46,23 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AddComponent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AddComponent.Designer.cs">
+      <DependentUpon>AddComponent.cs</DependentUpon>
+    </Compile>
     <Compile Include="Configurator.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Configurator.Designer.cs">
       <DependentUpon>Configurator.cs</DependentUpon>
+    </Compile>
+    <Compile Include="List.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="List.Designer.cs">
+      <DependentUpon>List.cs</DependentUpon>
     </Compile>
     <Compile Include="Main.cs">
       <SubType>Form</SubType>
@@ -60,8 +72,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AddComponent.resx">
+      <DependentUpon>AddComponent.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Configurator.resx">
       <DependentUpon>Configurator.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="List.resx">
+      <DependentUpon>List.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Main.resx">
       <DependentUpon>Main.cs</DependentUpon>
