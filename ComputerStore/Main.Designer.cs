@@ -35,7 +35,7 @@
             // 
             // buttonConfigurator
             // 
-            this.buttonConfigurator.Location = new System.Drawing.Point(330, 142);
+            this.buttonConfigurator.Location = new System.Drawing.Point(50, 37);
             this.buttonConfigurator.Name = "buttonConfigurator";
             this.buttonConfigurator.Size = new System.Drawing.Size(120, 23);
             this.buttonConfigurator.TabIndex = 0;
@@ -44,7 +44,7 @@
             // 
             // addButton
             // 
-            this.addButton.Location = new System.Drawing.Point(330, 171);
+            this.addButton.Location = new System.Drawing.Point(50, 66);
             this.addButton.Name = "addButton";
             this.addButton.Size = new System.Drawing.Size(120, 23);
             this.addButton.TabIndex = 1;
@@ -53,7 +53,7 @@
             // 
             // listButton
             // 
-            this.listButton.Location = new System.Drawing.Point(330, 200);
+            this.listButton.Location = new System.Drawing.Point(50, 95);
             this.listButton.Name = "listButton";
             this.listButton.Size = new System.Drawing.Size(120, 24);
             this.listButton.TabIndex = 2;
@@ -64,12 +64,12 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(231, 159);
             this.Controls.Add(this.listButton);
             this.Controls.Add(this.addButton);
             this.Controls.Add(this.buttonConfigurator);
             this.Name = "Main";
-            this.Text = "Form2";
+            this.Text = "Computer configurator";
             this.ResumeLayout(false);
 
         }

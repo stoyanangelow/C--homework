@@ -10,6 +10,7 @@ namespace ComputerStore
         Configurator configurator = new Configurator();
         AddComponent addComponent = new AddComponent();
         List list = new List();
+        
 
         public Main()
         {

@@ -21,3 +21,5 @@ C:\Users\Stoyan\source\repos\C--homework\ComputerStore\C--homework\ComputerStore
 C:\Users\Stoyan\source\repos\C--homework\ComputerStore\C--homework\ComputerStore\bin\Debug\ComputerStore.exe
 C:\Users\Stoyan\source\repos\C--homework\ComputerStore\C--homework\ComputerStore\bin\Debug\ComputerStore.pdb
 C:\Users\Stoyan\source\repos\C--homework\ComputerStore\C--homework\ComputerStore\obj\Debug\ComputerStore.List.resources
+C:\Users\Stoyan\source\repos\C--homework\ComputerStore\C--homework\ComputerStore\obj\Debug\ComputerStore.csproj.ResolveComReference.cache
+C:\Users\Stoyan\source\repos\C--homework\ComputerStore\C--homework\ComputerStore\obj\Debug\ComputerStore.Success.resources
